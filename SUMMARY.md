@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Whitepaper](README.md)
+* [Presentation](README.md)
