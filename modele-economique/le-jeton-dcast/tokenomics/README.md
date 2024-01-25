@@ -43,7 +43,7 @@ La distribution totale des tokens DCAST est prévue comme suit:
 
 #### _**Initialisation de l'offre**_
 
-Dès le déploiement du contrat [`DCast.sol`](../smart-contrat-erc20.md), marquant l'événement de génération de jeton (TGE), 5% de l'offre totale est immédiatement allouée à la réserve stratégique du projet.
+Dès le déploiement du contrat `DCast.sol`, marquant l'événement de génération de jeton (TGE), 5% de l'offre totale est immédiatement allouée à la réserve stratégique du projet.
 
 #### _**Plan de vesting pour les investisseurs**_
 

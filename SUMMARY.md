@@ -30,5 +30,4 @@
     * [Récompenses](modele-economique/le-jeton-dcast/vedcast-and-vedcastlp/recompenses.md)
     * [Gouvernance](modele-economique/le-jeton-dcast/vedcast-and-vedcastlp/gouvernance.md)
   * [Potentiels détournements](modele-economique/le-jeton-dcast/potentiels-detournements.md)
-  * [Smart contrat ERC20](modele-economique/le-jeton-dcast/smart-contrat-erc20.md)
 * [Trésoreries](modele-economique/tresoreries.md)
