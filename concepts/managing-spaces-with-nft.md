@@ -26,7 +26,7 @@ The value of these visibility spaces is market-driven, based on the target audie
 * **Financial flexibility:** Transactions can be made in various cryptocurrencies, and sponsors can resell or lease their NFT on any compatible marketplace.
 * **Authenticity and traceability:** Each NFT is unique, and its usage history (origin, validity of ads) is recorded on the blockchain, ensuring total transparency and authenticity of each slot.
 
-Integrating NFT technology into the media world enables a new era of monetization, allowing media to maintain independence while providing quality, freely accessible information.
+Integrating NFT technology into the media world enables a new era of monetization, allowing media to maintain independence while providing quality and freely accessible information.
 
 ### Interactions between Sponsor and Creator via d>sponsor
 
