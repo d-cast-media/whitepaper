@@ -4,4 +4,4 @@
 
 ## 💡 CONCEPTS
 
-* [Managing Spaces with NFT](concepts/managing-spaces-with-nft.md)
+* [Managing Ad Spaces with NFT](concepts/managing-ad-spaces-with-nft.md)

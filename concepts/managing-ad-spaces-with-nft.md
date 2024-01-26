@@ -12,13 +12,13 @@ layout:
     visible: true
 ---
 
-# Managing Spaces with NFT
+# Managing Ad Spaces with NFT
 
 ### "Tokenizing" audience exposure
 
 d>sponsor revolutionizes media and content creator funding by allowing sponsors to purchase advertising spaces temporarily or permanently.
 
-The value of these visibility spaces is market-driven, based on the target audience. Using Non-Fungible Tokens (NFTs) for this exposure offers significant advantages:
+The value of these ad spaces is market-driven, based on the target audience. Using Non-Fungible Tokens (NFTs) for this exposure offers significant advantages:
 
 * **Eliminating intermediaries:** Blockchain technology facilitates direct transactions between creators and sponsors, reducing costs and complications from middlemen.
 * **Ownership proof:** When a sponsor purchases an NFT for an ad space, they receive an irrefutable digital certificate granting exclusive rights to that space.
@@ -36,7 +36,7 @@ Integrating NFT technology into the media world enables a new era of monetizatio
 
 ***
 
-1. **Visibility Offer Creation:** The creator must specify the details of visibility spaces. Each token represents a unique space, and the associated NFT collection can either be pre-existing or created. If the collection is to be created, the creator must specify the number of spaces and their prices.
+1. **Ad Offer Creation:** The creator must specify the details of ad spaces. Each token represents a unique space, and the associated NFT collection can either be pre-existing or created. If the collection is to be created, the creator must specify the number of spaces and their prices.
 2. **Exposure Definition:** The creator set the validity duration and describe the audience exposure, which may include, among other things, a web banner, a clickable logo in a newsletter, or a video pre-roll. The creator also provides information about the sales clauses and the terms of use associated with the NFT that all sponsors must agree to when purchasing an NFT.&#x20;
 3. **NFT Acquisition:** A sponsor interested in the offer buys an NFT, gaining ownership of the associated space.
 4. **Ad Submission:** As the NFT owner, the sponsor can propose an ad for the space. For example, they can submit a logo for validation that meets the previously defined exposure criteria.
@@ -70,4 +70,4 @@ The sponsor can sell the NFT on the secondary market (e.g., [OpenSea](https://op
 In a future version, the sponsor will be able to submit a conditional purchase offer based on the approval of their ad.
 {% endhint %}
 
-The use of NFTs for managing visibility spaces transforms how funding operates in the media and creative sectors, providing simplicity, transparency, and financial flexibility. Sponsors can optimize their investments while providing effective support to creators.
+The use of NFTs for managing ad spaces transforms how funding operates in the media and creative sectors, providing simplicity, transparency, and financial flexibility. Sponsors can optimize their investments while providing effective support to creators.
