@@ -50,7 +50,7 @@ These actions are executed through smart contract transactions on a blockchain.&
 
 #### _Validated ads integration_
 
-The creator is responsible for integrating and displaying approved advertisements on their website (e.g., through an iframe on their website), while fulfilling their commitments for promised exposure. A decentralized penalty mechanism will be introduced in a future version, allowing sponsors to seek compensation if they feel they did not receive the promised exposure. To calculate ROI (Return on Investment), refer to the "Performance Measurement" section.&#x20;
+The creator is responsible for integrating and displaying approved advertisements on their website (e.g., through an iframe), while fulfilling their commitments for promised exposure. A decentralized penalty mechanism will be introduced in a future version, allowing sponsors to seek compensation if they feel they did not receive the promised exposure. To calculate ROI (Return on Investment), refer to the "Performance Measurement" section.&#x20;
 
 
 
