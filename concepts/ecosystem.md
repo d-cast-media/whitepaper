@@ -16,7 +16,7 @@ layout:
 
 d>sponsor introduces a groundbreaking Web3 monetization model for the media and advertising industry, aligning the interests of media platforms, advertisers, and business referrers through decentralization, transparency, and composability. This protocol offers a compelling alternative to traditional monetization methods designed for seamless integration within the existing media landscape.
 
-### **Beneficiaries of d>sponsor Funding**:
+### **Funding Beneficiaries**
 
 {% tabs %}
 {% tab title="Crypto Media" %}
@@ -34,7 +34,7 @@ d>sponsor provides creators of newsletters, videos, podcasts, and blogs with a u
 
 _As the protocol matures and web3 adoption becomes mainstream, influencers and traditional media are expected to enter._
 
-### Funding Actors in **d>sponsor**
+### Funding Actors
 
 {% tabs %}
 {% tab title="Individuals" %}
