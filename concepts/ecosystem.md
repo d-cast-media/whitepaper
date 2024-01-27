@@ -12,41 +12,41 @@ layout:
     visible: true
 ---
 
-# The d>sponsor Ecosystem
+# Ecosystem
 
-The d>sponsor protocol coordinates various players, including media, advertisers, and business referrers, to align their interests strategically. It is designed for seamless integration into the current advertising and media landscape, emphasizing decentralization, transparency, and composability. It offers an attractive alternative to traditional monetization models.
+d>sponsor introduces a groundbreaking Web3 monetization model for the media and advertising industry, aligning the interests of media platforms, advertisers, and business referrers through decentralization, transparency, and composability. This protocol offers a compelling alternative to traditional monetization methods designed for seamless integration within the existing media landscape.
 
 ### **Beneficiaries of d>sponsor Funding**:
 
 {% tabs %}
 {% tab title="Crypto Media" %}
-d>sponsor is the leading web3 monetization solution, designed to meet the specific needs of crypto media. It embodies core principles of decentralization, transparency, and composability, aligning perfectly with the values of the blockchain sector.
+d>sponsor is the leading web3 monetization solution designed to meet the specific needs of crypto media. It embodies core principles of decentralization, transparency, and composability, aligning perfectly with the values of the blockchain sector.
 {% endtab %}
 
 {% tab title="Tech/Adtech Media" %}
 For tech-focused and programmatic advertising media, d>sponsor offers a cutting-edge monetization solution that aligns with their pursuit of innovation.
 {% endtab %}
 
-{% tab title="Independents" %}
+{% tab title="Content Creators" %}
 d>sponsor provides creators of newsletters, videos, podcasts, and blogs with a unique and beneficial monetization solution. This solution goes beyond simple revenue generation and offers an attractive funding method for supporters. It enables creators to focus solely on creating quality content with more financial predictability and increased community engagement.
 {% endtab %}
 {% endtabs %}
 
-_It should be noted that as the protocol matures and web3 adoption becomes more widespread, influencers and traditional media are expected to enter._
+_As the protocol matures and web3 adoption becomes mainstream, influencers and traditional media are expected to enter._
 
 ### Funding Actors in **d>sponsor**
 
 {% tabs %}
 {% tab title="Individuals" %}
-d>sponsor presents a more advantageous model than traditional methods such as donations for those wishing to support media. The market is valued at [ $1.4 billion](https://www.statista.com/statistics/1078273/global-crowdfunding-market-size/).
+d>sponsor presents a more advantageous model than traditional methods, such as donations for those wishing to support media. The market is valued at [ $1.4 billion](https://www.statista.com/statistics/1078273/global-crowdfunding-market-size/).
 {% endtab %}
 
 {% tab title="DAOs" %}
-Decentralized organizations can use their on-chain treasury for marketing initiatives. [The estimated total value of cryptoassets held is $15 billion](https://deepdao.io/organizations).
+Decentralized organizations can use their on-chain treasury for marketing initiatives. [The estimated total value of crypto assets held is $15 billion](https://deepdao.io/organizations).
 {% endtab %}
 
-{% tab title="Blockchain Sector Companies" %}
-dsponsor provides web3 projects with transparency and simplification in token distribution for influencer campaigns. [A report by MarketsandMarkets predicts that the web3 marketing market will reach $100 billion by 2030](https://coinbound.io/web3-marketing-stats/).&#x20;
+{% tab title="Blockchain Companies" %}
+d>sponsor provides web3 projects with transparency and simplification in token distribution for influencer campaigns. [A report by MarketsandMarkets predicts that the web3 marketing market will reach $100 billion by 2030](https://coinbound.io/web3-marketing-stats/).&#x20;
 {% endtab %}
 {% endtabs %}
 
@@ -56,11 +56,11 @@ _As the protocol develops, advertisers from more traditional sectors will become
 
 {% tabs %}
 {% tab title="Developers" %}
-The protocol promotes the development of interfaces that are linked to deployed contracts. Developer teams that contribute to the project's success by adding value and generating revenue are rewarded with commissions.
+d>sponsor incentivizes the development of interfaces linked to its contracts, rewarding developer teams that enhance the protocol's value.
 {% endtab %}
 
 {% tab title="Individuals" %}
-Individuals who refer a media or creator and are mentioned as a referrer during an NFT acquisition through d>sponsor will receive rewards for their contribution. This affiliate mechanism is designed to actively value and reward those who support creators in non-financial ways, while also expanding the reach of the protocol.
+Referrers mentioned during an NFT purchase are rewarded, promoting a system that values contributions beyond financial support.
 {% endtab %}
 {% endtabs %}
 
@@ -68,7 +68,7 @@ _The protocol could benefit from other types of sponsors, such as influencers, b
 
 ### Advertising Agencies
 
-The potential for creating companies that bridge the gap between web3 and traditional advertising is significant. d>sponsor is leading the way for a new generation of agencies that offer services such as consultancy, audience analysis, and ad creation. As with programmatic advertising, agencies can now act as intermediaries between advertisers and d>sponsors.
+The potential for creating companies that bridge the gap between web3 and traditional advertising is significant. d>sponsor is leading the way for a new generation of agencies offering consultancy, audience analysis, and ad creation services. As with programmatic advertising, agencies can now act as intermediaries between advertisers and d>sponsor.
 
 #### Advertising Networks 3.0
 
