@@ -14,7 +14,7 @@ layout:
 
 # Advertising Solutions
 
-### Adaptability in Advertising Solutions&#x20;
+### Adaptability
 
 The d>sponsor protocol is designed to simplify funding interactions and the acquisition of advertising rights. However, it doesn't limit audience exposure to a specific format. Instead of mandating a limited set of pre-defined formats, it gives media the freedom to create their own forms of visibility, all under a contract deployed on a blockchain.
 
