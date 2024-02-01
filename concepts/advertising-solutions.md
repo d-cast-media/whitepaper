@@ -12,9 +12,9 @@ layout:
     visible: true
 ---
 
-# Sponsorship Forms
+# Advertising Solutions
 
-### Flexibility in Sponsorship Forms&#x20;
+### Adaptability in Advertising Solutions&#x20;
 
 The d>sponsor protocol is designed to simplify funding interactions and the acquisition of advertising rights. However, it doesn't limit audience exposure to a specific format. Instead of mandating a limited set of pre-defined formats, it gives media the freedom to create their own forms of visibility, all under a contract deployed on a blockchain.
 
