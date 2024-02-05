@@ -15,12 +15,12 @@ layout:
 # Récompenses
 
 {% hint style="warning" %}
-Le modèle de dividendes décrit ci-dessous est actuellement en phase de développement et pourrait être ajusté en fonction des exigences réglementaires avant son implémentation définitive.
+Le modèle de récompenses décrit ci-dessous est actuellement en phase de développement et pourrait être ajusté en fonction des exigences réglementaires avant son implémentation définitive.
 {% endhint %}
 
 La répartition des bénéfices générés par la trésorerie de d>sponsor constitue un pilier clé du protocole, ayant pour objectif de récompenser les détenteurs de [jetons verrouillés](./) (veDCAST/veDCASTLP) et de soutenir la croissance de l'écosystème.
 
-### **Répartition mensuelle des dividendes**
+### **Répartition mensuelle des récompenses**
 
 Au début de chaque mois, les profits accumulés le mois précédent sont alloués de la manière suivante :
 
@@ -34,7 +34,7 @@ Les 30% restants sont conservés par la trésorerie du protocole :
 
 ### **Revenus éligibles aux récompenses**
 
-Les dividendes sont exclusivement calculés sur les [revenus perçus par la trésorerie](../../frais-percus-par-le-protocole.md) en MATIC, WETH, WBTC ou USDC. Les revenus provenant d'autres cryptomonnaies restent dans la trésorerie pour être utilisés ultérieurement. Ainsi, les bénéficiaires reçoivent une part proportionnelle des jetons MATIC, WETH, WBTC et USDC accumulés par la trésorerie pendant le mois précédent.
+Les récompenses sont exclusivement calculés sur les [revenus perçus par la trésorerie](../../frais-percus-par-le-protocole.md) en MATIC, WETH, WBTC ou USDC. Les revenus provenant d'autres cryptomonnaies restent dans la trésorerie pour être utilisés ultérieurement. Ainsi, les bénéficiaires reçoivent une part proportionnelle des jetons MATIC, WETH, WBTC et USDC accumulés par la trésorerie pendant le mois précédent.
 
 ### **Exemple de calcul des récompenses**
 
@@ -46,12 +46,12 @@ Pour illustrer comment les détenteurs de jetons $DCAST pourraient bénéficier 
   * 50 000 USDC
   * 100 000 DAI
 
-Supposons qu'au début du mois en question un utilisateur détenait 30 000 veDCAST sur un total de 600 000 veDCAST, soit 5% du staking total de DCAST. Ce pourcentage le rend éligible pour 5% de la portion de 25% des revenus du mois dédiés aux détenteurs de veDCAST, soit 1.25% du total des dividendes. En conséquence, ce détenteur recevra :
+Supposons qu'au début du mois en question un utilisateur détenait 30 000 veDCAST sur un total de 600 000 veDCAST, soit 5% du staking total de DCAST. Ce pourcentage le rend éligible pour 5% de la portion de 25% des revenus du mois dédiés aux détenteurs de veDCAST, soit 1.25% du total des récompenses. En conséquence, ce détenteur recevra :
 
 * 0.0125 WBTC, équivalant à 1.25% de 1 WBTC
 * 0.1875 WETH, équivalant à 1.25% de 15 WETH
 * 625 USDC, équivalant à 1.25% de 50 000 USDC
-* 0 DAI (car le DAI n'est pas éligible aux dividendes)
+* 0 DAI (car le DAI n'est pas éligible aux récompenses)
 
 ### **Impact sur le prix du jeton DCAST**
 
