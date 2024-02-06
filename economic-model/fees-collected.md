@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# Fees Collected by the Protocol
+# Fees collected
 
 The economic model of d>sponsor is based on charging fees at two stages: at the initial creation of an NFT (minting fees) and at its resale on the secondary market (resale fees), **both currently set at 4%**.
 
@@ -38,7 +38,7 @@ If SponsorA resells this NFT to SponsorB for 200 USDC via a platform that takes 
 
 * SponsorA receives 175 USDC (87.5% of 200 USDC)
 * BigMedia receives 19.20 USDC (96% of 10% of 200 USDC)
-* The Treasury receives 0.8 USDC (4% of 10% of 200 USDC)
+* The treasury receives 0.8 USDC (4% of 10% of 200 USDC)
 * The marketplace gets 5 USDC (2.5% of 200 USDC)
 
 ### Purpose of Fees

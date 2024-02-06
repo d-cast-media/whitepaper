@@ -11,9 +11,12 @@
 
 ## 💸 Economic Model
 
-* [Fees Collected by the Protocol](economic-model/fees-collected-by-the-protocol.md)
+* [Fees collected](economic-model/fees-collected.md)
 * [The DCAST Token](economic-model/the-dcast-token/README.md)
   * [Tokenomics](economic-model/the-dcast-token/tokenomics/README.md)
-    * [Commission Distribution](economic-model/the-dcast-token/tokenomics/commission-distribution.md)
-* [Page 1](economic-model/page-1.md)
-* [Page](economic-model/page.md)
+    * [Commission distribution](economic-model/the-dcast-token/tokenomics/commission-distribution.md)
+  * [veDCAST & veDCASTLP](economic-model/the-dcast-token/vedcast-and-vedcastlp/README.md)
+    * [Rewards](economic-model/the-dcast-token/vedcast-and-vedcastlp/rewards.md)
+    * [Governance](economic-model/the-dcast-token/vedcast-and-vedcastlp/governance.md)
+  * [Potential misuse](economic-model/the-dcast-token/potential-misuse.md)
+* [Treasuries](economic-model/treasuries.md)
