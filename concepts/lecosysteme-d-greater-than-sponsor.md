@@ -14,7 +14,7 @@ layout:
 
 # L'écosystème d>sponsor
 
-Le protocole d>sponsor coordonne une variété d'acteurs, allant des médias aux annonceurs, en incluant les apporteurs d'affaires, tout en veillant un alignement stratégique de leurs intérêts. Conçu pour pour une intégration harmonieuse dans le paysage actuel de la publicité et des médias, d>sponsor valorise la décentralisation, la transparence et la composabilité, proposant ainsi une alternative attractive aux modèles de monétisation traditionnels.
+Le protocole d>sponsor coordonne une variété d'acteurs, allant des médias aux annonceurs, en incluant les apporteurs d'affaires, tout en veillant un alignement stratégique de leurs intérêts. Conçu pour une intégration harmonieuse dans le paysage actuel de la publicité et des médias, d>sponsor valorise la décentralisation, la transparence et la composabilité, proposant ainsi une alternative attractive aux modèles de monétisation traditionnels.
 
 ### **Acteurs bénéficiant du financement via d>sponsor**
 
