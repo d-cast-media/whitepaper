@@ -22,8 +22,6 @@ L'implémentation du jeton DCAST est actuellement soumise à un examen minutieux
 
 Le nombre total de jetons est fixé à _**100 millions**_.
 
-
-
 ### **Allocations**
 
 <figure><img src="../../../.gitbook/assets/allocations.png" alt=""><figcaption></figcaption></figure>
@@ -80,12 +78,9 @@ Pour les jetons alloués à la communauté et à l'équipe de d>sponsor, la dist
 
 <summary>Calcul des allocations totales</summary>
 
-* **Commissions pour revenus apportés** : 80 % de 88 % de l'offre totale de jetons = 70.4 %&#x20;
-* **Contributions de l'équipe** : 10 % de 88% l'offre totale de jetons = 8.8 %
-
-<!---->
-
-* **Grants** : 10 % de 88% l'offre totale de jetons = 8.8 %
+* **Commissions pour revenus apportés** : 80% de 88% de l'offre totale de jetons = 70.4%&#x20;
+* **Contributions de l'équipe** : 10% de 88% l'offre totale de jetons = 8.8%
+* **Grants** : 10% de 88% l'offre totale de jetons = 8.8%
 
 </details>
 
