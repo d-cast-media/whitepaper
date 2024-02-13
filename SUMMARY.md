@@ -9,6 +9,11 @@
 * [Advertising Solutions](concepts/advertising-solutions.md)
 * [Examples](concepts/examples.md)
 
+## 🖥 TECHNOLOGY
+
+* [Smart Contracts](technology/smart-contracts.md)
+* [Integration Modules](technology/integration-modules.md)
+
 ## 💸 Economic Model
 
 * [Fees collected](economic-model/fees-collected.md)
