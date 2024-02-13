@@ -18,7 +18,7 @@ layout:
 
 The d>sponsor protocol is designed to simplify funding interactions and the acquisition of advertising rights. However, it doesn't limit audience exposure to a specific format. Instead of mandating a limited set of pre-defined formats, it gives media the freedom to create their own forms of visibility, all under a contract deployed on a blockchain.
 
-### Control over sponsorship data displayed
+### Control over advertising data displayed
 
 While sponsors own the advertising space, media outlets maintain editorial control. This means that any ad proposed by a sponsor must be approved by the media before it is displayed. Even if an ad is rejected, the sponsor retains ownership of the space. This mechanism aligns the interests of both parties. The transparency of the blockchain ensures that the entire process, from submission to validation, is publicly accessible, encouraging positive behavior from all parties.
 

@@ -12,7 +12,11 @@
 ## 🖥 TECHNOLOGY
 
 * [Smart Contracts](technology/smart-contracts.md)
-* [Integration Modules](technology/integration-modules.md)
+* [Integration Modules](technology/integration-modules/README.md)
+  * [On-chain requests](technology/integration-modules/on-chain-requests.md)
+  * [API](technology/integration-modules/api.md)
+  * [SDK](technology/integration-modules/sdk.md)
+* [Administration Interface](technology/administration-interface.md)
 
 ## 💸 Economic Model
 
