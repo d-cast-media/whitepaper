@@ -24,4 +24,4 @@ The DCAST token is designed to promote unity and collective growth by establishi
 
 #### Philosophy of collaboration
 
-The d>sponsor protocol serves as a foundation upon which anyone can build and innovate. Participants are encouraged and rewarded for developing solutions that enrich and extend the capabilities of the protocol.
+The d>sponsor protocol serves as a foundation upon which anyone can build and innovate. Participants are encouraged and [rewarded ](tokenomics/commission-distribution.md)for developing solutions that enrich and extend the capabilities of the protocol.

@@ -47,9 +47,9 @@ Le résultat donne :&#x20;
 ### Governance functions
 
 * _**Community rewards**_: Each month, veDCAST and veDCASTLP token holders participate in deciding the distribution of community rewards to recognize significant contributions to the ecosystem.
-* _**Treasury spending**_: Governance decides on the use of 15% of the monthly treasury income. These funds can be invested in DeFi, support other projects, or be used for charitable purposes.
-* _**DCAST token reward mechanism**_: Governance has the power to change the list of cryptocurrencies recognized in the calculation of treasury revenue.
-* _**Fee Setting**_ : An essential aspect of governance is the ability to influence the protocol's fee structure, including the percentages taken during NFT mints and royalties on secondary transactions.
+* _**Treasury spending**_: Governance decides on the use of [15% of the monthly treasury income](rewards.md). These funds can be invested in DeFi, support other projects, or be used for charitable purposes.
+* _**DCAST token reward mechanism**_: Governance has the power to change the list of cryptocurrencies recognized in the [calculation of treasury revenue](../tokenomics/commission-distribution.md).
+* _**Fee Setting**_ : An essential aspect of governance is the ability to influence the [protocol's fee](../../fees-collected.md) structure, including the percentages taken during NFT mints and royalties on secondary transactions.
 
 ### Governance security
 

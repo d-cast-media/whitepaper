@@ -18,25 +18,25 @@ The d>sponsor platform offers out-of-the-box integration modules to facilitate a
 
 ### Integrations are available through the admin interface at admin.dsponsor.com
 
-* _**HTML Widget**_: A ready-to-use component, with no external JavaScript or CSS dependencies, designed for easy integration into any web page or email. Simply copy and paste to insert a clickable logo panel or dynamic banner.&#x20;
+* _**HTML Widget**_: A ready-to-use component, with no external JavaScript or CSS dependencies, designed for easy integration into any web page or email. Simply copy and paste to insert a [clickable logo panel](../../concepts/advertising-solutions.md#clickable-logo-inserts) or [dynamic banner](../../concepts/advertising-solutions.md#dynamic-banner).&#x20;
 * _**Dynamic banner image URL**_: This stable URL points to an image that automatically updates and randomly scrolls through pre-validated ads. It's an efficient way to diversify ad impressions without requiring the publisher to change the embedded URL on their content platform.
 
 ### Development of new modules
 
 #### _Integration and interaction methods with d>sponsor_
 
-There are several ways to create custom modules for displaying advertising data.&#x20;
+There are several ways to create custom modules for [displaying advertising data](../../concepts/advertising-solutions.md#adaptability).&#x20;
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="on-chain-requests.md" %}
+[on-chain-requests.md](on-chain-requests.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="api.md" %}
+[api.md](api.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="sdk.md" %}
+[sdk.md](sdk.md)
 {% endcontent-ref %}
 
 #### _Data Specifications_
@@ -51,9 +51,9 @@ The following data format is recommended, but not required:
 }
 ```
 
-Such a JSON format can be stored on IPFS. The corresponding CID is provided to the DSponsor.sol contract, allowing the integration module to retrieve the content via IPFS.
+Such a JSON format can be stored on [IPFS](https://ipfs.tech/). The corresponding CID is provided to the DSponsor.sol contract, allowing the integration module to retrieve the content via IPFS.
 
-* Example for the clickable logo insert:
+* Example for the [clickable logo insert](../../concepts/advertising-solutions.md#clickable-logo-inserts):
 
 ```
 {
@@ -66,7 +66,7 @@ Such a JSON format can be stored on IPFS. The corresponding CID is provided to t
 }
 ```
 
-* &#x20;Example for the dynamic banner:
+* &#x20;Example for the [dynamic banner](../../concepts/advertising-solutions.md#dynamic-banner):
 
 ```
 {

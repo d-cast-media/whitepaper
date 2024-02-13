@@ -16,7 +16,7 @@ layout:
 
 ### Adaptability
 
-The d>sponsor protocol is designed to simplify funding interactions and the acquisition of advertising rights. However, it doesn't limit audience exposure to a specific format. Instead of mandating a limited set of pre-defined formats, it gives media the freedom to create their own forms of visibility, all under a contract deployed on a blockchain.
+The d>sponsor protocol is designed to simplify funding interactions and the acquisition of advertising rights. However, it doesn't limit audience exposure to a specific format. Instead of mandating a limited set of pre-defined formats, it gives media the freedom to create their own forms of visibility, [all under a contract deployed on a blockchain](../technology/smart-contracts.md).
 
 ### Control over advertising data displayed
 
@@ -24,7 +24,7 @@ While sponsors own the advertising space, media outlets maintain editorial contr
 
 ### Visibility opportunities for sponsors: Advertising examples
 
-The protocol's founding team suggests certain typical ad formats, while encouraging users to imagine and develop their own alternatives.
+The protocol's founding team suggests certain typical ad formats, while encouraging users to imagine and [develop their own alternatives](../technology/integration-modules/).
 
 #### Clickable Logo Inserts
 
@@ -39,7 +39,7 @@ The protocol's founding team suggests certain typical ad formats, while encourag
 * _**Use**_: Integration in the middle of articles, offering random visibility that is renewed with each page load.
 
 {% hint style="info" %}
-_**Interested in Developing an Integration Module?**_\
+_**Interested in Developing an**_ [_**Integration Module**_](../technology/integration-modules/)_**?**_\
 Here are some ideas:
 
 * _**Audio ad insertion**_: An NFT associated with a podcast ad slot (pre-roll, mid-roll, and/or post-roll). This would require integration with podcast hosts' Dynamic Ad Insertion ([DAI](https://www.adresultsmedia.com/news-insights/dynamic-ad-insertion-for-podcasts/)) services or the development of a custom solution.

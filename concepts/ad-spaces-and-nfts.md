@@ -37,12 +37,12 @@ Integrating NFT technology into the media world enables a new era of monetizatio
 ***
 
 1. **Ad Offer Creation:** Creators detail the ad spaces. Each token represents a unique space. The associated NFT collection can either be pre-existing or created. If the collection is to be created, the creator must specify the number of spaces and their prices.
-2. **Exposure Definition:** Creators outline the duration and nature of the exposure, such as web banners, newsletter logos, or video pre-rolls, along with sales clauses and terms of use for the NFT, which sponsors agree to upon purchase.
+2. **Exposure Definition:** Creators outline the duration and [nature of the exposure](advertising-solutions.md), such as web banners, newsletter logos, or video pre-rolls, along with sales clauses and terms of use for the NFT, which sponsors agree to upon purchase.
 3. **NFT Acquisition:** Sponsors buy an NFT to gain ownership of the associated ad space.
 4. **Ad Submission:** Owning the NFT, sponsors propose ads for their space, adhering to the predefined exposure criteria.
 5. **Ad Validation:** Creators review and either approve or reject the proposed ads. If a proposal is rejected, the sponsor can submit a new one.&#x20;
 
-These steps are facilitated through smart contract transactions on a blockchain.
+These steps are facilitated through [smart contract](../technology/smart-contracts.md) transactions on a blockchain.
 
 {% hint style="info" %}
 <mark style="color:blue;">Key Notes</mark>\
@@ -50,7 +50,7 @@ These steps are facilitated through smart contract transactions on a blockchain.
 
 #### _Validated Ads Integration_
 
-Creators integrate approved ads into their platforms (e.g., via iframe) and commit to the agreed-upon exposure. A decentralized penalty mechanism for unmet exposure promises is planned for future implementation.
+Creators [integrate approved ads](../technology/integration-modules/) into their platforms (e.g., via iframe) and commit to the agreed-upon exposure. A decentralized penalty mechanism for unmet exposure promises is planned for future implementation.
 
 
 
@@ -62,7 +62,7 @@ Sponsors can propose new ads anytime, following the initial submission and valid
 
 _**Ownership Transfer**_
 
-Sponsors can sell their NFTs on secondary markets (e.g., OpenSea), transferring ad space ownership.\
+Sponsors can sell their NFTs on secondary markets (e.g., [OpenSea](https://opensea.io/)), transferring ad space ownership.\
 
 
 #### _Purchase Option_&#x20;

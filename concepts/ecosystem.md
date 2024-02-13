@@ -56,11 +56,11 @@ _As the protocol develops, advertisers from more traditional sectors will become
 
 {% tabs %}
 {% tab title="Developers" %}
-d>sponsor incentivizes the development of interfaces linked to its contracts, rewarding developer teams that enhance the protocol's value.
+d>sponsor incentivizes the development of interfaces linked to its contracts, [rewarding ](../economic-model/the-dcast-token/tokenomics/commission-distribution.md)developer teams that enhance the protocol's value.
 {% endtab %}
 
 {% tab title="Individuals" %}
-Referrers mentioned during an NFT purchase are rewarded, promoting a system that values contributions beyond financial support.
+Referrers mentioned during an NFT purchase are [rewarded](../economic-model/the-dcast-token/tokenomics/commission-distribution.md), promoting a system that values contributions beyond financial support.
 {% endtab %}
 {% endtabs %}
 
@@ -80,8 +80,8 @@ Sponsors prioritize measuring investment profitability for their campaign succes
 
 The d>sponsor protocol does not measure audience or campaign performance. The media initially sets the prices for the spaces, which are then adjusted by the secondary market. As a result, the cost-to-visibility ratio and performance are subjectively determined by the trading activity of NFTs associated with the advertising spaces.
 
-Sponsors are responsible for developing their own methods to assess ROI/ROAS. For instance, a CTA link (like in the case of sponsorship through a clickable logo) could include [UTM parameters](https://en.wikipedia.org/wiki/UTM\_parameters) or be analyzed using tools such as [Linkly](https://linklyhq.com/). Specialized agencies might provide tailored support to sponsors, offering custom solutions for performance measurement.
+Sponsors are responsible for developing their own methods to assess [ROI](https://en.ryte.com/wiki/Return\_On\_Investment)/[ROAS](https://en.ryte.com/wiki/ROAS). For instance, a CTA link (like in the case of sponsorship through a clickable logo) could include [UTM parameters](https://en.wikipedia.org/wiki/UTM\_parameters) or be analyzed using tools such as [Linkly](https://linklyhq.com/). Specialized agencies might provide tailored support to sponsors, offering custom solutions for performance measurement.
 
 ### Long-Term Vision: d>cast, the First Web3 Media Network
 
-d>sponsor is a step towards creating d>cast, the reference DAO for decentralized media. This vision encompasses all web3-oriented media activities: from publishing and community engagement to monetization and audience measurement, all managed through the $DCAST token.
+d>sponsor is a step towards creating d>cast, the reference DAO for decentralized media. This vision encompasses all web3-oriented media activities: from publishing and community engagement to monetization and audience measurement, all managed through the [$DCAST token](../economic-model/the-dcast-token/).

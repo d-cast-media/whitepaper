@@ -18,12 +18,12 @@ layout:
 The architecture of the administration interface is currently under development, and the functionality presented is subject to further revision. Concrete visualizations of the interface will be shared to provide a better understanding of its operation.
 {% endhint %}
 
-### Features for Media and Creators (sponsored)
+### Features for Media and Creators ([sponsored](../concepts/ecosystem.md#funding-beneficiaries))
 
 #### _Creation and management of advertising offers_
 
-* Configuration of offers, including setting prices and quantities
-* Provide information on how to integrate ads across platforms, such as iframe modules for websites.
+* Configuration of [offers](../concepts/ad-spaces-and-nfts.md), including setting prices and quantities
+* Provide information on how to [integrate ](integration-modules/)ads across platforms, such as iframe modules for websites.
 * A sponsor-submitted ad validation area with indicators to facilitate quality control and relevance of submitted data.
 
 #### _Performance tracking and financial management_
@@ -31,12 +31,12 @@ The architecture of the administration interface is currently under development,
 * Analytics tools to visualize the sale of visibility space tokens.
 * Feature to withdraw funds accumulated from sales and resale royalties.
 
-### Features for Sponsors
+### Features for [Sponsors](../concepts/ecosystem.md#funding-actors)
 
 * Catalog of spaces: Browse and purchase tokenized visibility spaces, sorted by media type and category.
 * A submission system that allows sponsors to send their ads to media or creators for approval.
 
-### **Functionalities for Business Referrers**
+### **Functionalities for** [**Business Referrers**](../concepts/ecosystem.md#business-referrers)
 
 * Creation of customized affiliate links to promote the sale of visibility space tokens.
 * A dashboard for tracking performance metrics, including traffic generated and conversions achieved through affiliate links.
@@ -47,7 +47,7 @@ LDesigned as an intuitive portal, the d>sponsor administration interface connect
 
 #### _**Account Abstraction**_
 
-Account Abstraction (AA) simplifies the user experience by allowing users to sign up and log in using familiar methods, such as email or social media accounts, without having to interact directly with private keys. Interactions with the blockchain remain decentralized and secure, while providing account recovery options to address forgotten password or loss of access scenarios.
+[Account Abstraction](https://cointelegraph.com/learn/account-abstraction-guide-to-ethereums-erc-4337-standard) (AA) simplifies the user experience by allowing users to sign up and log in using familiar methods, such as email or social media accounts, without having to interact directly with private keys. Interactions with the blockchain remain decentralized and secure, while providing account recovery options to address forgotten password or loss of access scenarios.
 
 #### _**Gas fee payments**_
 

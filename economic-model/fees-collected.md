@@ -16,14 +16,14 @@ layout:
 
 The economic model of d>sponsor is based on charging fees at two stages: at the initial creation of an NFT (minting fees) and at its resale on the secondary market (resale fees), **both currently set at 4%**.
 
-These fees contribute to the d>sponsor treasury and are intended to ensure the sustainability of the ecosystem and the continued funding of the protocol.
+These fees contribute to the d>sponsor treasury and are intended to ensure the sustainability of the [ecosystem ](../concepts/ecosystem.md)and the continued funding of the protocol.
 
 ### Fees Structure
 
 Fees are collected at two different levels when an NFT representing a visibility space is issued by the protocol (via the [`DSponsorGroups.sol`](broken-reference), not by an external collection):
 
 * _**Mint**_: Fees applied to the amount paid by the sponsor during the initial sale of the NFT.
-* _**Resale**_: Fees on royalties from a secondary market transaction, if the marketplace supports this feature.
+* _**Resale**_: Fees on [royalties ](https://eips.ethereum.org/EIPS/eip-2981)from a secondary market transaction, if the marketplace supports this feature.
 
 The d>sponsor treasury collects these fees regardless of the cryptocurrency used for the transactions.
 
@@ -49,4 +49,4 @@ The fees collected are used to cover various expenses, such as:
 2. Conducting security audits.
 3. Management of legal aspects to ensure project compliance.
 
-A portion of the revenues will be redistributed through a specific mechanism linked to the DCAST token to support the growth of the protocol and actively reward contributors to its expansion.
+[A portion of the revenues will be redistributed through a specific mechanism](the-dcast-token/vedcast-and-vedcastlp/rewards.md) linked to the [DCAST token](the-dcast-token/) to support the growth of the protocol and actively reward contributors to its expansion.
