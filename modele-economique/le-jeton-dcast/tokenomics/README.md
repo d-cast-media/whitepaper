@@ -90,7 +90,3 @@ En introduisant un halving tous les 44 mois, la disponibilité réduite des nouv
 ### Prix et valorisation du jeton DCAST
 
 Le prix du DCAST est déterminé par les forces du marché sur des plateformes d'échanges décentralisées telles que Balancer ou Uniswap, où l'offre et la demande des participants déterminent sa valeur en temps réel.
-
-#### _Offre initiale aux investisseurs_
-
-Pour la phase de financement initial (_private seed_), le jeton DCAST est proposé à un prix de 0.2 dollars par unité. Cette valorisation initiale positionne la Fully Diluted Valuation (FDV) du jeton à 20 millions de dollars, avec un _market cap_ de 800 000 dollars au moment du lancement, reflétant un financement total de 1.4 million de dollars.
