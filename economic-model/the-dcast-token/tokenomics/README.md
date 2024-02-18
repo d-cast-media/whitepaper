@@ -90,7 +90,3 @@ By introducing a halving every 44 months, the reduced availability of new tokens
 ### **Price and valuation of DCAST token**
 
 The price of DCAST is determined by market forces on decentralized exchange platforms such as Balancer or Uniswap, where the supply and demand of participants determine its real-time value.
-
-#### _**Initial offering to investors**_
-
-For the initial funding phase (Private Seed), the DCAST token will be offered at a price of $0.20 per unit. This initial valuation positions the Fully Diluted Valuation (FDV) of the token at $20 million, with a market cap at launch of $800,000, reflecting total funding of $1.4 million.
