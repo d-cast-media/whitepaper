@@ -26,6 +26,8 @@
 * [Le jeton DCAST](modele-economique/le-jeton-dcast/README.md)
   * [Tokenomics](modele-economique/le-jeton-dcast/tokenomics/README.md)
     * [Distribution des commissions](modele-economique/le-jeton-dcast/tokenomics/distribution-des-commissions.md)
+  * [Copy of Tokenomics](modele-economique/le-jeton-dcast/copy-of-tokenomics/README.md)
+    * [Distribution des commissions](modele-economique/le-jeton-dcast/copy-of-tokenomics/distribution-des-commissions.md)
   * [veDCAST & veDCASTLP](modele-economique/le-jeton-dcast/vedcast-and-vedcastlp/README.md)
     * [Récompenses](modele-economique/le-jeton-dcast/vedcast-and-vedcastlp/recompenses.md)
     * [Gouvernance](modele-economique/le-jeton-dcast/vedcast-and-vedcastlp/gouvernance.md)
