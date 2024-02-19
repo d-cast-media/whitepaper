@@ -22,7 +22,7 @@ Au début de chaque mois, les jetons DCAST sont répartis en fonction des revenu
 
 ### Critères de calcul
 
-La distribution de jetons DCAST est calculée en fonction des transactions de vente effectuées en USDC, MATIC, WETH et WBTC. Les paiements avec d'autres cryptomonnaies ne seront inclus que s'ils sont ultérieurement ajoutés à la liste blanche après une [décision de la gouvernance](../vedcast-and-vedcastlp/gouvernance.md). Cette approche sélective a pour objectif d'éviter toute manipulation artificielle de la répartition des récompenses et d'encourager l'apport en trésorerie d'actifs liquides et de valeur avérée.
+La distribution de jetons DCAST est calculée en fonction des transactions de vente effectuées en USDC, USDT, MATIC, WETH et WBTC. Les paiements avec d'autres cryptomonnaies ne seront inclus que s'ils sont ultérieurement ajoutés à la liste blanche après une [décision de la gouvernance](../vedcast-and-vedcastlp/gouvernance.md). Cette approche sélective a pour objectif d'éviter toute manipulation artificielle de la répartition des récompenses et d'encourager l'apport en trésorerie d'actifs liquides et de valeur avérée.
 
 Les contributions sont calculées en dollars américains, en utilisant le taux de change en vigueur lors de la distribution mensuelle des récompenses, qui intervient le premier jour de chaque mois.
 

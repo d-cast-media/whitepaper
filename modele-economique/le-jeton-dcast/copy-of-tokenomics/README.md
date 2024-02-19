@@ -28,25 +28,19 @@ Le nombre total de jetons est fixé à _**100 millions**_.
 
 La distribution totale des tokens DCAST est prévue comme suit:
 
-* **Investisseurs (Private seed)** : 7% (7M)
-  * Blocage d'1 an puis distribution linéaire sur 3 ans
-*   **Réserve stratégique** : 5% (5M)
+* **Investisseurs** : 7% (7M)
+  * _<mark style="color:purple;">**Seed Round**</mark>_ : 7% (7M) - Blocage d'1 an puis distribution linéaire sur 3 ans
+* **Communauté** : 88% (88M)
+  * L'émission des tokens suit un **plan de** **distribution mensuel** : initialement, 1 million de tokens seront distribués chaque mois pendant les premiers 44 mois, réparti suivant l'activité du mois précédent. À l'issue de cette période, un **halving** (réduction de moitié de l'émission mensuelle) interviendra tous les 44 mois, continuant ainsi jusqu'à atteindre le plafond total de 88 millions de tokens émis.
+  * _<mark style="color:purple;">**Utilisateurs actifs**</mark>_ : 70,4% (70,4M) (80% de la distribution mensuelle)
+  * _<mark style="color:purple;">**Grants**</mark>_ : 8,8% (8,8M) (10% de la distribution mensuelle)
+  * _<mark style="color:purple;">**Pools de liquidité**</mark>_ : 2% (2M) - Emission TGE
+* **Equipe** : 8,8% (8,8M) (10% de la distribution mensuelle)
+  * distribution identique à la communauté
+* **Réserve stratégique** : 3% (3M)
+  * _<mark style="color:purple;">**Trésorerie**</mark>_ : 3% (3M) - Distribution linéaire sur 60 mois&#x20;
 
-    Répartition :
-
-    * _<mark style="color:purple;">**Trésorerie**</mark>_ : 3% (3M) - Distribution linéaire sur 60 mois&#x20;
-    * _<mark style="color:purple;">**Pools de liquidité**</mark>_ : 2% (2M) - Emission TGE
-*   **Communauté et Equipe** : 88% (88M)
-
-    * L'émission des tokens suit un **plan de** **distribution mensuel** : initialement, 1 million de tokens seront distribués chaque mois pendant les premiers 44 mois, réparti suivant l'activité du mois précédent. À l'issue de cette période, un **halving** (réduction de moitié de l'émission mensuelle) interviendra tous les 44 mois, continuant ainsi jusqu'à atteindre le plafond total de 88 millions de tokens émis.
-
-    Répartition :&#x20;
-
-    * _<mark style="color:purple;">**Utilisateurs actifs**</mark>_ : 70,4% (70,4M) (80% de la distribution mensuelle)
-    * _<mark style="color:purple;">**Equipe**</mark>_ : 8,8% (8,8M) (10% de la distribution mensuelle)
-    * _<mark style="color:purple;">**Grants**</mark>_ : 8,8% (8,8M) (10% de la distribution mensuelle)
-
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Répartition du token</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Répartition des tokens</p></figcaption></figure>
 
 ### **Évolution de l'offre en circulation**
 
