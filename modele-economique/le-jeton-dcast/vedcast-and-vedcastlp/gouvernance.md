@@ -46,9 +46,9 @@ Le résultat donne :&#x20;
 
 ### **Fonctions de gouvernance**
 
-* _**Récompenses communautaires**_ : Chaque mois, les détenteurs de jetons veDCAST et veDCASTLP participent à la décision de la distribution des [récompenses communautaires](../tokenomics/#distribution-des-jetons-pour-la-communaute-et-lequipe), visant à reconnaître les contributions significatives à l'écosystème.
+* _**Récompenses communautaires**_ : Chaque mois, les détenteurs de jetons veDCAST et veDCASTLP participent à la décision de la distribution des [récompenses communautaires](broken-reference), visant à reconnaître les contributions significatives à l'écosystème.
 * _**Dépenses de la trésorerie**_ : La gouvernance décident de l'utilisation de [15% des revenus mensuels de la trésorerie](recompenses.md). Ces fonds peuvent être investis dans la DeFi, soutenir d'autres projets ou être alloués à des œuvres caritatives.
-* _**Mécanisme de rétribution des jetons DCAST**_ : La gouvernance a la pouvoir de modifier la liste des cryptomonnaies reconnues dans le [calcul des revenus de la trésorerie](../tokenomics/distribution-des-commissions.md).
+* _**Mécanisme de rétribution des jetons DCAST**_ : La gouvernance a la pouvoir de modifier la liste des cryptomonnaies reconnues dans le [calcul des revenus de la trésorerie](broken-reference).
 * _**Fixation des frais**_ : Un aspect crucial de la gouvernance est sa capacité à influencer la structure des [frais du protocole](../../frais-percus-par-le-protocole.md), notamment les pourcentages prélevés lors des mints de NFT et les royalties sur les transactions secondaires.
 
 ### **Sécurité de la gouvernance**

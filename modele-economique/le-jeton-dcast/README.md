@@ -24,4 +24,4 @@ Le jeton DCAST est conçu pour stimuler l'unité et la croissance collective en 
 
 #### _Philosophie de collaboration_
 
-Le protocole d>sponsor sert de fondation sur laquelle n'importe qui peut bâtir et innover. Les participants sont encouragés et [récompensés](tokenomics/distribution-des-commissions.md) pour développer des solutions qui enrichissent et étendent les capacités du protocole.
+Le protocole d>sponsor sert de fondation sur laquelle n'importe qui peut bâtir et innover. Les participants sont encouragés et [récompensés](broken-reference) pour développer des solutions qui enrichissent et étendent les capacités du protocole.

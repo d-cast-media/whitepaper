@@ -22,7 +22,7 @@ Au début de chaque mois, les jetons DCAST sont répartis en fonction des revenu
 
 ### Critères de calcul
 
-La distribution de jetons DCAST est calculée en fonction des transactions de vente effectuées en USDC, MATIC, WETH et WBTC. Les paiements avec d'autres cryptomonnaies ne seront inclus que s'ils sont ultérieurement ajoutés à la liste blanche après une [décision de la gouvernance](../vedcast-and-vedcastlp/gouvernance.md). Cette approche sélective a pour objectif d'éviter toute manipulation artificielle de la répartition des récompenses et d'encourager l'apport en trésorerie d'actifs liquides et de valeur avérée.
+La distribution de jetons DCAST est calculée en fonction des transactions de vente effectuées en USDC, USDT, MATIC, WETH et WBTC. Les paiements avec d'autres cryptomonnaies ne seront inclus que s'ils sont ultérieurement ajoutés à la liste blanche après une [décision de la gouvernance](../vedcast-and-vedcastlp/gouvernance.md). Cette approche sélective a pour objectif d'éviter toute manipulation artificielle de la répartition des récompenses et d'encourager l'apport en trésorerie d'actifs liquides et de valeur avérée.
 
 Les contributions sont calculées en dollars américains, en utilisant le taux de change en vigueur lors de la distribution mensuelle des récompenses, qui intervient le premier jour de chaque mois.
 
@@ -32,7 +32,7 @@ La part totale des revenus de chaque acteur est calculée en fonction de l'activ
 
 ### Exemples de distribution
 
-SponsorA acquiert un NFT de SmallCreator pour 10 WETH, générant 0.4 WETH pour la trésorerie ([4 % de frais](../../frais-percus-par-le-protocole.md)). équivalent à 1 000 $. La valeur totale des revenus captée par la trésorerie le mois précédent est de 20 000 $. La transaction représente donc 5% du total des revenus du mois précédent. [Sans aucun halving jusqu'à présent, l'allocation est de 1 million de jetons DCAST](./#distribution-des-jetons-pour-la-communaute-et-lequipe). SponsorA et SmallCreator se partagent alors 50 000 jetons $DCAST, recevant chacun 25 000.
+SponsorA acquiert un NFT de SmallCreator pour 10 WETH, générant 0.4 WETH pour la trésorerie ([4 % de frais](../../frais-percus-par-le-protocole.md)). équivalent à 1 000 $. La valeur totale des revenus captée par la trésorerie le mois précédent est de 20 000 $. La transaction représente donc 5% du total des revenus du mois précédent. [Sans aucun halving jusqu'à présent, l'allocation est de 1 million de jetons DCAST](broken-reference). SponsorA et SmallCreator se partagent alors 50 000 jetons $DCAST, recevant chacun 25 000.
 
 Le même mois, SponsorB acquiert un NFT de BigMedia via un lien d'affiliation d'Agence3, pour 50 000 USDC, générant ainsi 2 000 USDC pour la trésorerie. Cette transaction constitue 10% des revenus avec le taux 1 USDC = 1 $. SponsorB, BigMedia et Agence3 se partagent alors 100 000 DCAST, recevant chacun 33 333.33 DCAST.
 

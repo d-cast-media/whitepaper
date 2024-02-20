@@ -56,11 +56,11 @@ _À mesure que le protocole se développe, des annonceurs de secteurs plus tradi
 
 {% tabs %}
 {% tab title="Développeurs" %}
-Le protocole d>sponsor encourage vivement la création d'interfaces connectées aux contrats déployés. Les équipes de développeurs qui apportent de la valeur et génèrent un chiffre d'affaires pour la trésorerie du projet sont généreusement [récompensées par des commissions](../modele-economique/le-jeton-dcast/tokenomics/distribution-des-commissions.md).
+Le protocole d>sponsor encourage vivement la création d'interfaces connectées aux contrats déployés. Les équipes de développeurs qui apportent de la valeur et génèrent un chiffre d'affaires pour la trésorerie du projet sont généreusement [récompensées par des commissions](broken-reference).
 {% endtab %}
 
 {% tab title="Particuliers" %}
-Chaque individu recommandant un média ou un créateur et mentionné comme référent lors de l'acquisition d'un NFT via le protocole d>sponsor reçoit une récompense pour sa contribution à l'attraction de sponsors. Ce [mécanisme d'affiliation](../modele-economique/le-jeton-dcast/tokenomics/distribution-des-commissions.md) est conçu pour valoriser et récompenser activement ceux qui soutiennent les créateurs de manière non financière, tout en élargissant la portée du protocole.
+Chaque individu recommandant un média ou un créateur et mentionné comme référent lors de l'acquisition d'un NFT via le protocole d>sponsor reçoit une récompense pour sa contribution à l'attraction de sponsors. Ce [mécanisme d'affiliation](broken-reference) est conçu pour valoriser et récompenser activement ceux qui soutiennent les créateurs de manière non financière, tout en élargissant la portée du protocole.
 {% endtab %}
 {% endtabs %}
 
