@@ -34,7 +34,9 @@ The remaining 30% is retained by the protocol treasury :
 
 ### Eligible rewardable revenues
 
-Rewards are calculated based solely on the [revenue received by the treasury](../../fees-collected.md) in MATIC, WETH, WBTC, or USDC. Revenues from other cryptocurrencies are held in the treasury for future use. Therefore, recipients will receive a proportional share of the MATIC, WETH, WBTC, and USDC tokens accumulated by the treasury during the previous month.
+Rewards are calculated based solely on the [revenue received by the treasury](../../fees-collected.md) in MATIC, WETH, WBTC, USDC, ord USDT. Revenues from other cryptocurrencies are held in the treasury for future use. Therefore, recipients will receive a proportional share of the MATIC, WETH, WBTC, and USDC tokens accumulated by the treasury during the previous month.
+
+_<mark style="background-color:red;">Currently, a buyback mechanism for DCAST is being studied for the portion to be redistributed to veTOKEN holders.</mark>_
 
 ### Example of reward calculation
 
