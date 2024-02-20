@@ -59,12 +59,12 @@ Dès le déploiement du contrat `DCast.sol`, marquant l'événement de générat
 
 Les jetons DCAST alloués à la communauté et à l'équipe, représentant 88% de l'offre totale, suivent un plan de vesting caractérisé par une distribution mensuelle assortie d'un mécanisme de halving tous les 44 mois. Cette stratégie de distribution vise à stimuler un engagement durable au sein de la communauté et parmi les membres de l'équipe, honorant l'implication initiale tout en encourageant une évolution constante et une expansion continue du protocole d>sponsor.
 
-~~La distribution mensuelle des jetons DCAST est directement liée à l'activité et à la contribution au protocole durant le mois précédent. Chaque début du mois, l'offre allouée à la communauté et à l'équipe est subdivisé comme suit :~~
+La distribution mensuelle des jetons DCAST est directement liée à l'activité et à la contribution au protocole durant le mois précédent. Chaque début du mois, l'offre allouée à la communauté et à l'équipe est subdivisé comme suit :
 
 * _**Commissions pour revenus apportés**_ : La majeure partie de la distribution, soit 80%, est versée sous forme de commissions. Ces commissions sont distribuées proportionnellement aux revenus générés pour la trésorerie au cours du mois précédent.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="distribution-des-commissions.md" %}
+[distribution-des-commissions.md](distribution-des-commissions.md)
 {% endcontent-ref %}
 
 * _**Contributions de l'équipe**_ : Chaque mois, 10% de la distribution mensuelle est réservée aux membres de l'équipe de d>sponsor qui ont activement contribué au cours du mois précédent.
