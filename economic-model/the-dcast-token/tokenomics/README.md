@@ -28,12 +28,19 @@ The total number of tokens is capped at _**100 million.**_
 
 The total distribution of DCAST tokens will be as follows:
 
-* _**Community**_: 79.2% (70.4% for commissions and 8.8% for one-time rewards)
-* _**Investors (Private Seed)**_: 7%
-* _**Strategic Reserve**_: 5% (3% for treasury and 2% for liquidity pools)
-* _**Team**_ : 8.8%
+* **Investors**: 7% (7M)
+  * _<mark style="color:purple;">**Seed Round**</mark>_ : 7% (7M) - 1-year cliff, followed by 3-years vesting
+* **Community**: 81.2% (81.2M)
+  * The token issuance follows a **monthly distribution plan**: initially, 1 million tokens will be distributed each month for the first 44 months, allocated based on the activity of the previous month. At the end of this period, a **halving** of the monthly issuance will occur every 44 months, continuing until the total cap of 88 million issued tokens is reached.
+  * _<mark style="color:purple;">**Active users**</mark>_: 70.4% (70.4M) (80% of the monthly distribution)
+  * _<mark style="color:purple;">**Grants**</mark>_: 8.8% (8.8M) (10% of the monthly distribution)
+  * _<mark style="color:purple;">**Liquidity Pools**</mark>_: 2% (2M) - TGE Issuance
+* **Team**: 8.8% (8.8M) (10% of the monthly distribution)
+  * identical distribution plan to the community
+* **DAO**: 3% (3M)
+  * _<mark style="color:purple;">**Treasury**</mark>_ : 3% (3M) - 5-years vesting&#x20;
 
-
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Token Allocation</p></figcaption></figure>
 
 ### Circulating Supply Evolution
 
@@ -41,29 +48,18 @@ The total distribution of DCAST tokens will be as follows:
 
 #### _Initialization of Supply_
 
-Upon deployment of the `DCast.sol` contract, which marks the Token Generation Event (TGE), 5% of the total supply is immediately added to the project's strategic reserve.
+Upon deployment of the `DCast.sol` contract, which marks the Token Generation Event (TGE), 2% of the total supply is immediately allocated for liquidity pools, and 3% will go to the protocol's treasury, which will be unlocked linearly over 60 months.
 
 #### _Vesting Plan for Investors_
 
 * **Lock-up Period (**_cliff_**)**: Initial investors are subject to a one-year lock-up period during which no token allocations will be distributed.
-* **Linear Distribution**: Following the cliff period, tokens allocated to investors will be distributed linearly over a three-year period, with monthly payouts. This ensures a gradual and controlled release of supply.
+* **Linear Distribution (**vesting**)**: Following the cliff period, tokens allocated to investors will be distributed linearly over a three-year period, with monthly payouts. This ensures a gradual and controlled release of supply.
 
 #### _Token distribution for community and team_&#x20;
 
 The DCAST tokens allocated to the community and team, representing 88% of the total supply, follow a vesting plan characterized by a monthly distribution with a halving mechanism every 44 months. This distribution strategy is designed to encourage long-term engagement within the community and among team members, rewarding initial commitment while encouraging continued development and expansion of the d>sponsor protocol.
 
-1. <mark style="background-color:yellow;">Monthly issuance and halving details</mark>
-
-Considering the token creation occurs in month N:
-
-* **At the beginning of each month from N+1 to N+44**: 1% of the total supply, or 1 million DCAST tokens, are distributed each month. By month N+44, 44% of the total supply will have been distributed to the community and team.
-* **At the beginning of each month from N+45 à N+88**: After the first halving, the monthly distribution is halved to 0.5%, or 500,000 DCAST per month. By the end of this period, an additional 22% of the total supply will have been distributed, bringing the total to 66% distributed to the community and team.
-* **At the beginning of each month from N+89 à N+132**: A second halving reduces the monthly distribution to 0.25% or 250,000 DCAST. By the end of this period, an additional 11% of the total supply has been distributed, bringing the total to 77% distributed to the community and team.
-* **And so forth**: The halving process continues, reducing the monthly distribution and extending the vesting period, according to a geometric series that converges to 88% of the total supply distributed.
-
-2. <mark style="background-color:yellow;">Monthly distribution based on activity</mark>
-
-For the tokens allocated to the community and the d>sponsor team, the monthly distribution of DCAST tokens is directly tied to the activity and contribution to the protocol during the previous month. The total of 88% of the supply allocated to the community and the team will be distributed at the beginning of each month as follows:
+The monthly distribution of DCAST tokens is directly tied to the activity and contribution to the protocol during the previous month. At the start of each month, the supply allocated to the community and the team is divided as follows:
 
 * **Commissions for generated revenue**: The majority of the distribution, 80%, is paid out as commissions. These commissions are distributed in proportion to the revenue generated for the treasury during the previous month.
 
