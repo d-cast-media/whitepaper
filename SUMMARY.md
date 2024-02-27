@@ -9,7 +9,7 @@
 * [Formes de sponsoring](concepts/formes-de-sponsoring.md)
 * [Exemples](concepts/exemples.md)
 
-## 🖥 Technologie
+## 🖥️ Technologie
 
 * [Smart contracts](technologie/smart-contracts/README.md)
   * [Adresses de déploiement](technologie/smart-contracts/adresses-de-deploiement.md)
