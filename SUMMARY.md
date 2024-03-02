@@ -9,7 +9,7 @@
 * [Advertising Solutions](concepts/advertising-solutions.md)
 * [Examples](concepts/examples.md)
 
-## 🖥 TECHNOLOGY
+## 🖥️ TECHNOLOGY
 
 * [Smart Contracts](technology/smart-contracts.md)
 * [Integration Modules](technology/integration-modules/README.md)

@@ -30,17 +30,17 @@ The total distribution of DCAST tokens will be as follows:
 
 * **Investors**: 7% (7M)
   * _<mark style="color:purple;">**Seed Round**</mark>_ : 7% (7M) - 1-year cliff, followed by 3-years vesting
-* **Community**: 81.2% (81.2M)
+* **Community**: 79.2% (79.2M)
   * The token issuance follows a **monthly distribution plan**: initially, 1 million tokens will be distributed each month for the first 44 months, allocated based on the activity of the previous month. At the end of this period, a **halving** of the monthly issuance will occur every 44 months, continuing until the total cap of 88 million issued tokens is reached.
   * _<mark style="color:purple;">**Active users**</mark>_: 70.4% (70.4M) (80% of the monthly distribution)
   * _<mark style="color:purple;">**Grants**</mark>_: 8.8% (8.8M) (10% of the monthly distribution)
-  * _<mark style="color:purple;">**Liquidity Pools**</mark>_: 2% (2M) - TGE Issuance
 * **Team**: 8.8% (8.8M) (10% of the monthly distribution)
   * identical distribution plan to the community
-* **DAO**: 3% (3M)
+* **DAO**: 5% (5M)
   * _<mark style="color:purple;">**Treasury**</mark>_ : 3% (3M) - 5-years vesting&#x20;
+  * _<mark style="color:purple;">**Liquidity Pools**</mark>_: 2% (2M) - TGE Issuance
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Token Allocation</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Token Allocation</p></figcaption></figure>
 
 ### Circulating Supply Evolution
 
